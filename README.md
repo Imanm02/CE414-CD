@@ -1,15 +1,15 @@
-# CE{Code of Course}-{Short Name of Course}
-Solutions to Prof. {Name of Prof}'s CE{Code of Course}: {Full Name of Course} ({Name of Uni} - {Semester} {Year}) Assignments
+# CE414-CD
+Solutions to Ms. Hosseinmardi's CE414: Compiler Design (Sharif University of Technology - Spring 2022) Assignments
 
 ## Overview
 
-This repository contains solutions to the assignments for the CE{Code of Course}: {Full Name of Course} course at the {Name of Uni}, {Semester} {Year}, taught by Prof. {Name of Prof}.
+This repository contains solutions to the assignments for the CE414: Compiler Design course at the Sharif University of Technology, Spring 2022, taught by Ms. Hosseinmardi.
 
 ## Table of Contents
 
 - [Overview](#overview)
 - [Assignments](#assignments)
-- [Exams](#exams)
+- [Exam](#exam)
 - [Slides](#slides)
 - [Notes](#notes)
 - [Source](#source)
@@ -19,9 +19,9 @@ This repository contains solutions to the assignments for the CE{Code of Course}
 
 In the "Assignments" folder, you will find the solutions to assignments given during the course.
 
-## Exams
+## Exam
 
-In the "Exams" folder, you will find the solutions to the midterm and final of the course.
+In the "Exam" folder, you will find the solutions to the midterm and final of the course.
 
 ## Slides
 
