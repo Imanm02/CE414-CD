@@ -1,9 +1,9 @@
 # CE414-CD
-Solutions to Ms. Hosseinmardi's CE414: Compiler Design (Sharif University of Technology - Spring 2022) Assignments
+Solutions to Ms. Hosseinmardi's CE414: Compiler Design (Sharif University of Technology - Fall 2022) Assignments
 
 ## Overview
 
-This repository contains solutions to the assignments for the CE414: Compiler Design course at the Sharif University of Technology, Spring 2022, taught by Ms. Hosseinmardi.
+This repository contains solutions to the assignments for the CE414: Compiler Design course at the Sharif University of Technology, Fall 2022, taught by Ms. Hosseinmardi.
 
 ## Table of Contents
 
